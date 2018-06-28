@@ -51,7 +51,7 @@ h4 {
 .gradient-box-b {
   border: 1px solid #aea925;
   box-shadow:  -1px 1px #aea925, -2px 2px #aea925, -3px 3px #aea925, -4px 4px #aea925, -5px 5px #aea925;
-  background: linear-gradient(to right, #3f87a6, #ebf8e1, #f69d3c);
+  background: linear-gradient(to right, #7a7716, #ebf8e1, #f69d3c);
 }
 
 .dubious {

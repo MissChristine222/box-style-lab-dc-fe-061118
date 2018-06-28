@@ -63,7 +63,7 @@ h4 {
 .gradient-box-c {
   border: 1px solid #af1e25;
   box-shadow:  -1px 1px #af1e25, -2px 2px #af1e25, -3px 3px #af1e25, -4px 4px #af1e25, -5px 5px #af1e25;
-  background: linear-gradient(to right, #7b0005, #ebf8e1, #f69d3c);
+  background: linear-gradient(to right, #7b0005, #7b0005, #f69d3c);
 }
 
 
